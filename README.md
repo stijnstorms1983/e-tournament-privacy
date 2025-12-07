@@ -1,8 +1,7 @@
 # 🎾 **E-Tournament Table Enhancer**
 
 ## 📄 **Korte beschrijving**
-**E-Tournament Table Enhancer** voegt knoppen en handige functionaliteit toe aan wedstrijdentabellen op het E-Tournament platform voor tennis.  
-De extensie maakt het eenvoudiger om spelers snel te contacteren en wedstrijden efficiënt te beheren of te verplaatsen.
+**E-Tournament Table Enhancer** voegt knoppen en handige functionaliteit toe aan wedstrijdentabellen op het E-Tournament platform voor tennis. De extensie maakt het eenvoudiger om spelers snel te contacteren en wedstrijden efficiënt te beheren of te verplaatsen.
 
 ---
 
