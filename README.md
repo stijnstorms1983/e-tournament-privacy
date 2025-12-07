@@ -28,5 +28,3 @@ Microsoft Edge ondersteunt Chrome-extensies rechtstreeks.
 5. Klik **"Toevoegen aan Edge"**
 
 Edge herkent de extensie automatisch en toont een installatiemelding.
-Deze extensie verzamelt **geen persoonlijke gegevens** en werkt volledig lokaal in de browser.  
-Voor details zie `PRIVACY.md`.
